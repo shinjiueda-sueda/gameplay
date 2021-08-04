@@ -10,13 +10,26 @@
 
 ## :computer: Projeto
 
-
+Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar games favoritos com seus amigos com esse App que possui autenticação com Discord.
 
 ## :hammer_and_wrench: Features
 
-
+- [ ] Autenticação Social OAuth2 com servidor do Discord.
+- [ ] Obtém perfil do usuário cadastrado no Discord (username e avatar);
 
 ## ✨ Tecnologias
+
+```markdown
+
+```
+
+
+
+
+
+
+
+
 
 
 
@@ -25,7 +38,6 @@
 <div align="center">
   <small>copyright holders - Rodrigo Gonçalves Santana - Junho/2021</small>
 </div>
-
 
 
 

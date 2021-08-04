@@ -16,6 +16,7 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 
 - [ ] Autenticação Social OAuth2 com servidor do Discord.
 - [ ] Obtém perfil do usuário cadastrado no Discord (username e avatar);
+- [ ] Lista os servidores do Discord que o usuário faz parte;
 
 ## ✨ Tecnologias
 
